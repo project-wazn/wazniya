@@ -17,6 +17,7 @@ Check useful apps and tools in [Wazniya](https://github.com/wazniya) repository.
 
 ### [Android Libraries](https://github.com/wazniya/wazn-android-lib) - v1.1.0 Sweet Chestnut
 
-## Wazniya home
 <img align="right" src="https://wazniya.com/downloads/logo-wazniya1.png">
+
+## Wazniya home
 [www.wazniya.com](https://wazniya.com)
