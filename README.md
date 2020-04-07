@@ -10,7 +10,7 @@ Check useful apps and tools in [Wazniya](https://github.com/wazniya) repository.
 - 100% working  
 - assets are safe  
 - bugs are present  
-- identified useless calls within app regarding payment ids will be cleaned in next version.
+- identified useless calls within app regarding payment ids will be cleaned in next version
 
 ### [iOS Wallet](https://github.com/wazniya/wazniya-ios) - v0.6.0-wip  
 -  coming soon...
